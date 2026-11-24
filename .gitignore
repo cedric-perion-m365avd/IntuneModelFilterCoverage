@@ -1,0 +1,20 @@
+# Sorties et rapports generes
+*.csv
+*.log
+*.html
+*.json
+
+# Artefacts PowerShell
+*.psd1.bak
+output/
+bin/
+obj/
+
+# Fichiers specifiques a l'editeur
+.vs/
+.vscode/
+*.user
+
+# Fichiers systeme
+Thumbs.db
+.DS_Store
